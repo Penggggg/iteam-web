@@ -6,7 +6,7 @@ My personal Graduation Project -- iTeam's web side. 我的个人项目-毕业设
 ## 一、技术架构
 iTeam将采用数据层+渲染层进行信息展示，并由web socket进行按需的、实时的、全量的信息推送，以确保信息的实时和有效性。
 
-![前端数据流图](http://images2015.cnblogs.com/blog/896425/201701/896425-20170113163624041-869941256.png)
+![前端数据流图](http://images2015.cnblogs.com/blog/896425/201701/896425-20170117155818896-782216526.png)
 
 ***
 
